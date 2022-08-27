@@ -1,5 +1,7 @@
 # QR Code Generator practice project
 
+### Live site can be viewed [here](https://qr.sagnikchakraborty.in).
+
 Created by following Brad Traversy's [tutorial](https://youtu.be/qNiUlml9MDk).
 
 ## Features
@@ -12,5 +14,3 @@ Created by following Brad Traversy's [tutorial](https://youtu.be/qNiUlml9MDk).
 
 - HTML, Tailwind CSS & vanilla JavaScript
 - QR code is generated using [qrcodejs](https://github.com/davidshimjs/qrcodejs) library
-
-### Live site can be viewed [here](https://qr.sagnikchakraborty.in).
